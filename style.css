@@ -16,7 +16,43 @@ h6{
 .laptop{
     margin-top: 50px;
 }
+.phone{
+    margin-top: 50px;
+}
 h5{
     text-align: center;
     margin-top: 100px;
+}
+.bg-image{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bg-image-image{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: 0px 330px;
+}
+.container-c{
+    height: 540px;
+    margin-left: 130px;
+}
+.cat{
+    text-align: center;
+    margin-top: 50px;
+}
+hr{
+    width: 120px;
+    border: 4px solid orange;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+.all-cat{
+    border: lightgray;
+    box-shadow: 5px 5px 20px lightgray;
+    padding: 60px;
+    border-radius: 9px;
+}
+.cat-shoe{
+    margin-top: 50px;
 }
